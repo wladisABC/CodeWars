@@ -6,4 +6,4 @@ const spinWords= (string) => {
     return result.join(' ');
 }
 
-spinWords('Just kidding there is still one more1111')
+spinWords('Just kidding there is still one more111112222')
